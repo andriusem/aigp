@@ -14,6 +14,7 @@ Rules for every agent working in this vault (Claudian, Claude in the Claude app,
 - `study/`: everything exam-specific: progress, course notes, quizzes, practice exams. Study notes link *to* kb notes, never the other way round. [progress.md](study/progress.md) is the source of truth for exam progress.
 - `_library/`: originals (`originals/`, never edit) and reading copies (`text/`). Local only, not in git (except the EU AI Act text).
 - `_agents/inbox/`: web clippings saved by the Obsidian Web Clipper. Agents process them: create or update a source card in `kb/sources/` (with the clip's URL) and distil knowledge notes; leave the clip in place.
+- `_agents/scripts/`: scripts that built the reading copies (epub, EU AI Act, OECD report); see its README before converting a new source.
 - `_agents/drafts/`: drafts and proposals from agents awaiting Andrius's review. `_agents/templates/`: note templates.
 
 ## Answering a question from the kb (retrieval protocol)
