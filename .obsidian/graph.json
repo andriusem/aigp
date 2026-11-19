@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "-path:_agents -path:study -file:INDEX -file:AGENTS -file:CLAUDE -file:README",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:kb/sources",
+      "color": {
+        "a": 1,
+        "rgb": 9342611
+      }
+    },
+    {
+      "query": "path:kb/concepts",
+      "color": {
+        "a": 1,
+        "rgb": 5213943
+      }
+    },
+    {
+      "query": "path:kb/frameworks",
+      "color": {
+        "a": 1,
+        "rgb": 3458939
+      }
+    },
+    {
+      "query": "path:kb/laws",
+      "color": {
+        "a": 1,
+        "rgb": 16098596
+      }
+    },
+    {
+      "query": "path:kb/orgs",
+      "color": {
+        "a": 1,
+        "rgb": 11894492
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

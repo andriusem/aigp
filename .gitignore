@@ -1,0 +1,15 @@
+# Library: originals and converted text of licensed material stay on this machine.
+# IAPP titles forbid reproduction without consent, so they are never pushed.
+_library/*
+!_library/README.md
+# EU law is free to reuse, so the AI Act reading copy is synced
+!_library/text/
+_library/text/*
+!_library/text/eu-ai-act/
+
+# Per-machine Obsidian state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.trash/
