@@ -49,6 +49,14 @@ Used when Andrius (or another agent) asks something like "which rule applies to 
 ## Writing course notes (study/)
 - Exam angles, BoK codes and quiz material go in `study/course-notes/`, which links to the kb notes it draws on.
 
+## Study workflow (agreed 2026-11-19)
+Andrius works through the online course module by module at his own pace; an agent follows along.
+1. **Follow along:** read the same course section (Claude in Chrome), discuss, answer questions.
+2. **Take notes:** course note in `study/course-notes/` (exam angle lives there) plus kb notes in the career format.
+3. **Additional materials:** for each section, offer what fits from the kb first, then good external sources: primary documents (laws, official guidance, standards bodies), strong explainer articles or papers, and short videos where they explain a concept better than text (e.g. machine learning basics). Prefer authoritative, current sources; note date and why each is worth it. List them in the course note under "Further reading".
+4. **End-of-module quiz:** when a module is finished, quiz on that module (mix of recall, select-all-that-apply and scenario questions, in the exam's style). Log results in quiz-log, update weak-spots and progress.
+5. **Spot where help is needed:** watch Andrius's questions and confusions in conversation. Record each signal in [weak-spots.md](study/weak-spots.md) under *Signals from questions* (date, what he asked, what it suggests, BoK code), and revisit those areas in later explanations and quizzes.
+
 ## Study state
 - Quizzes: append results to [quiz-log.md](study/quiz-log.md) (date, topic, BoK codes, score, missed points), then update [weak-spots.md](study/weak-spots.md) and the status column in [progress.md](study/progress.md).
 - Practice exams: Andrius records answers in `study/practice-exams/attempt-NN.md`. Grade against the answer key in the PDF; record only question numbers, letters, domains and scores. Never copy question text or rationales into the vault.

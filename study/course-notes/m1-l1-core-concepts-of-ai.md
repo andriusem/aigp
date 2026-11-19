@@ -30,7 +30,7 @@ ANI / narrow or weak AI · broad AI · AGI / strong AI · ASI · OECD Framework 
 
 ## Further reading (from the course list, M1/L1)
 Most useful first:
-1. [OECD Framework for the Classification of AI Systems](https://oecd.ai/en/classification): the framework itself.
+1. OECD Framework for the Classification of AI Systems: start with the [two-page overview](https://wp.oecd.ai/app/uploads/2022/02/Classification-2-pager-1.pdf); the full report (OECD Digital Economy Papers No. 323, Feb 2022, 80 pp.) is at [doi.org/10.1787/cb6d9eca-en](https://doi.org/10.1787/cb6d9eca-en). kb: [framework note](../../kb/frameworks/oecd-ai-classification-framework.md).
 2. [OECD AI Principles overview](https://oecd.ai/en/ai-principles) (updated May 2024) and the underlying [Recommendation of the Council on AI](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449).
 3. [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
 4. [UNESCO Recommendation on the Ethics of AI](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics).
